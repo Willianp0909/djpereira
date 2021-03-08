@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fatec Itaqua atividade 4</title>
+</head>
+<body>
+    <img src="imagens/logomarca_Fatec_Itaqua.jpg" alt="FATEC Itaquaquecetuba">
+    <hr width = "100%">
+    
+    <h1>Cursos Disponíveis</h1>
+    <ul>
+        <li><a href="gti.html">GTI - Getão da Tecnologia da Informação</a></li><br>
+    <li><a href="gcom.html">GCOM - Getão Comercial</a></li><br>
+    <li><a href="sec.html">GSEC - Secretáriado</a></li><br>
+    </ul>
+    <!--GTI – Gestão da Tecnologia da Informação
+        GCOM – Gestão Comercial
+        SEC – Secretariado-->
+
+<hr width = "100%">
+
+<center><a href="index.html">Voltar ao Inicio</a></center>
+
+<hr width = "100%">
+
+</body>
+</html>
